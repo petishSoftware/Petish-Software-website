@@ -75,23 +75,23 @@ export class HomeOneComponent implements OnInit {
     // Accordion
     accordionItems = [
         {
-            title: 'Great Understanding',
-            content: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt sit amet consectetur adipiscing.`,
+            title: 'Innovation',
+            content: `We thrive on pushing the boundaries of what's possible, delivering solutions that go beyond expectations.`,
             open: false
         },
         {
-            title: 'Update Technology',
-            content: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt sit amet consectetur adipiscing.`,
+            title: 'Expert Team',
+            content: `Our seasoned professionals bring a wealth of experience and expertise to every project.`,
             open: false
         },
         {
-            title: 'Experienced Team',
-            content: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt sit amet consectetur adipiscing.`,
+            title: 'Tailored Solutions',
+            content: `We understand that every business is unique, and our solutions are crafted to meet your specific needs`,
             open: false
         },
         {
-            title: 'Best Quality Service',
-            content: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt sit amet consectetur adipiscing.`,
+            title: 'Collaborative Approach',
+            content: ` Building strong and lasting relationships is at the core of our values. We work closely with you to ensure success.`,
             open: false
         }
     ];
